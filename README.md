@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Voktho Das
-#### Electronics Engineer
+## Hi there 👋, my name is Voktho Das
+### Electronics Engineer
 I am studying B.Sc in Electrical & Electronics Engineering at Bangladesh University of Engineering & Technology
 
 Skills: Analog IC Design/VLSI Design/Degital Electronics/RTL/Solid State Device
